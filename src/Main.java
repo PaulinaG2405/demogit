@@ -4,6 +4,7 @@ public class Main {
         String name = "John Doe";
         int age = 25;
         boolean status = true;
+        Automovil auto = new Automovil();
 
     }
 }
